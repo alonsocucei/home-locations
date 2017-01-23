@@ -1,4 +1,4 @@
-drop database homelocations;
+drop database if exists homelocations;
 create database homelocations;
 use homelocations;
 create table if not exists homes (
