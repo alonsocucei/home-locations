@@ -5,7 +5,7 @@ This is an example that uses dropwizard to create a basic REST api for home loca
 You willl need to have installed:
 Maven
 MySql
-   User and pwd are configured in config.xml
+   User and pwd are configured in config.yml
 
 To start the app just execute these commands:
 
