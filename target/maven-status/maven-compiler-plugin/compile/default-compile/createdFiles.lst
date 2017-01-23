@@ -1,0 +1,7 @@
+com\luxoft\homelocations\App.class
+com\luxoft\homelocations\dao\mappers\HomeMapper.class
+com\luxoft\homelocations\representations\Home.class
+com\luxoft\homelocations\dao\mappers\HomeListMapper.class
+com\luxoft\homelocations\HomeLocationsConfiguration.class
+com\luxoft\homelocations\resources\HomeResource.class
+com\luxoft\homelocations\dao\HomeDAO.class
